@@ -9,17 +9,17 @@ def drive(pi, pqb, nd, oj):
 
   
   if pf >= objetivo:
-    print("\n\nConseguiu o first down")
-    print("O ataque termiou na linha de {} jardas".format(pf))
+    print("Conseguiu o first down")
+    print("\nO ataque termiou na linha de {} jardas".format(pf))
   elif pf < objetivo and nd != 4:
     nd += 1
     print("A jogada terminou na linha de {}".format(pf))
-    print("\n\nvai para o {}° down".format(nd))
-    print("Iniciando na linha de {} jardas".format(pf))
+    print("vai para o {}° down".format(nd))
+    print("\nIniciando na linha de {} jardas".format(pf))
     drive(pf, 0, nd, objetivo)
   else:
     print("turnover on downs")
-    print("O ataque termiou na linha de {} jardas".format(pf))
+    print("\nO ataque termiou na linha de {} jardas".format(pf))
     
     
 pos_incial=int(input("Em que jarda o ataque inicia?"))
