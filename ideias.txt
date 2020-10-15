@@ -1,0 +1,52 @@
+TIME
+    -Qb
+        ritimo/ agilidade:
+        precição:
+        força:
+        Awareness / inteligencia(leitura defesas):
+        play action
+
+    -Rb
+        quebra de tackle:
+        velocidade:
+        bloqueio:
+        recepção:
+        dribles: 
+        visão:
+        salto:
+        segurança da bola:
+
+
+    -Wr/Te
+        recepção:
+        bloqueio:
+        velocidade:
+        rotas:
+        salto:
+
+    -Ol
+        bloqueio passe:
+        bloqueio corrida:
+        força:
+
+    -Dl
+        tackle
+        força:
+        movimentos para pressão:
+
+    -Lb
+        taclke:
+        movimentos para pressão:
+        força:
+        cobertura zona:
+        cobertura m2m
+    -Cb
+        taclke:
+        força:
+        cobertura m2m:
+        cobertura zona:
+    -S
+        taclke:
+        força:
+        cobertura m2m:
+        cobertura zona:
